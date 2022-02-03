@@ -9,7 +9,7 @@
   * We need to enter the name of dataset(in this case Latency Dataset)
   * We need to select a particular terminal and specify start dates and end dates , between which latency needs to be found
   * We can even select Categorization check box to display quality of Latency for each terminal . 
-  * Categorization are done as :- 
+  * Categorization of Latencies are done as :- 
       1) below 25% Excellent
       2) 25% to 50% Good
       3) 50% to 75% Fair
